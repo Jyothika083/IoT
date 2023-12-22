@@ -1,1 +1,1 @@
-5th semester lab programs
+5th semester IoT lab programs
